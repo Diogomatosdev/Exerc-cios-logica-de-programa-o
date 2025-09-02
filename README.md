@@ -1,2 +1,2 @@
-# Exerc-cios-logica-de-programa-o
+# Exercios-logica-de-programao
 Exercícios de logica de programação em Portugol
